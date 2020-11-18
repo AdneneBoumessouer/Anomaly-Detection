@@ -74,7 +74,7 @@ nbconvert==6.0.3
 nbformat==5.0.7
 nest-asyncio==1.4.0
 networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
-notebook==6.1.4
+notebook==6.1.5
 numpy==1.19.2
 oauthlib==3.1.0
 olefile==0.46
